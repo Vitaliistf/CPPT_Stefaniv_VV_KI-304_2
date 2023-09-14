@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Stefaniv.Lab4","l":"CalcException"},{"p":"KI304.Stefaniv.Lab4","l":"Equations"},{"p":"KI304.Stefaniv.Lab4","l":"EquationsApp"}];updateSearchResults();
