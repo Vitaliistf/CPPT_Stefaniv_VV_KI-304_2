@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Stefaniv.Lab2","l":"Footwear"},{"p":"KI304.Stefaniv.Lab2","l":"FootwearDriver"},{"p":"KI304.Stefaniv.Lab2","l":"Laces"},{"p":"KI304.Stefaniv.Lab2","l":"Sole"},{"p":"KI304.Stefaniv.Lab2","l":"Upper"}];updateSearchResults();
